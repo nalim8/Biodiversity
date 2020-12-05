@@ -11,3 +11,10 @@ In which park were most observations made?
 Are certain types of species more likely to be endangered?
 How many species are protected?
 Which species is most prevalent and which is least prevalent?
+
+The technologies used:
+- Python 3.8.3
+- Numpy 1.18.5
+- Pandas 1.0.5
+- Matplotlib 3.2.2
+- Seaborn 0.10.1
